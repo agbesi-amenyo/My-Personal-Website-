@@ -1,8 +1,8 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Fira Code, monospace",
-    main: "Fira Code, monospace"
+    title: "SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif",
+    main: "SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif"
   },
   // Colors for layout
   colors: {
