@@ -7,8 +7,8 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
-    <Section>
-   <FooterWrapper>
+    <Section id="#contact" >
+   <FooterWrapper  >
      <LinkList>
      {/* Phone Number */}
      <LinkColumn>
@@ -29,6 +29,8 @@ const Footer = () => {
      {/* SOCIALS  */}
      {/* <SocialIconsContainer> */}
 {/* Github */}
+<SocialContainer>
+
      <SocialIcons  href ="https://github.com/a-amenyo">
        <AiFillGithub size = "3rem " />
      </SocialIcons>
@@ -40,6 +42,7 @@ const Footer = () => {
      <SocialIcons  href ="https://twitter.com/codewithgrids?s=20">
        <AiFillTwitterCircle size = "3rem " />
      </SocialIcons>
+     </SocialContainer>
      </SocialIconsContainer>
 
      {/* </SocialIconsContainer> */}
