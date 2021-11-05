@@ -22,19 +22,21 @@ export const projects = [
     title: 'We Split',
     description:"A simple iOS app that helps friedns split a bill at the restaurant. Includes the option for tip as well-all you have to do is input the amount and leave the calculations to the app!",
     image: '/images/we-split.png',
-    tags: ['SwiftUI'],
+    tags: ['', 'SwiftUI', ''],
     source: 'https://github.com/agbesi-amenyo/Project---Responsive-Website---Buy-Me-A-Coffee.git',
-    visit: 'https://google.com',
+    visit: '#projects',
     id: 1,
   },
  
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Web Quiz App',
+    description: `A quick quiz. Full of Entertainment and Sports Questions. 
+    The source of the questions is from an API that randomizes these questions.
+    `,
+    image: '/images/quick-quiz.png',
+    tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/agbesi-amenyo/Quiz-App.git',
+    visit: 'https://agbesis-quick-quiz.netlify.app/',
     id: 3,
   },
 ];

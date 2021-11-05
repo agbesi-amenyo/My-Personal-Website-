@@ -3,16 +3,18 @@ import styled from 'styled-components';
 export const Img = styled.img`
   width:100%;
   height:100%;
-  object-fit: cover;
+  object-fit: fit;
   overflow: hidden;
 `
 
 export const GridContainer = styled.section`
 display: grid;
-grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+grid-template-columns: repeat(2, 1fr);
 padding: 3rem;
+width : 100%;
 place-items: center;
-column-gap: 2rem;
+// background : white;
+column-gap: 4rem;
 row-gap: 3rem;
 @media ${(props) => props.theme.breakpoints.sm} {
   display: flex;
