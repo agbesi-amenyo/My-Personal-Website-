@@ -20,7 +20,7 @@ export const projects = [
   },
   {
     title: 'We Split',
-    description:"A simple iOS app that helps friedns split a bill at the restaurant. Includes the option for tip as well-all you have to do is input the amount and leave the calculations to the app!",
+    description:"A simple iOS app that helps friends split a bill at the restaurant. Includes the option for tip as well-all you have to do is input the amount and leave the calculations to the app!",
     image: '/images/we-split.png',
     tags: ['', 'SwiftUI', ''],
     source: 'https://github.com/agbesi-amenyo/Project---Responsive-Website---Buy-Me-A-Coffee.git',
@@ -42,9 +42,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Started online studies on YouTube with Mosh', },
+  { year: 2020, text: 'Applied to AmaliTech Training Academy', },
+  { year: 2021, text: 'Completed the Training in June and Started working as a Front End & iOS Developer(SwiftUI) in July', },
 ];

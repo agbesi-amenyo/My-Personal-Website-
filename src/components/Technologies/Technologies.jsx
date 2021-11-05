@@ -1,5 +1,6 @@
 import React from 'react';
-import {  DiReact, DiZend, DiSwift  } from 'react-icons/di';
+import {  DiReact, DiSwift  } from 'react-icons/di';
+import { SiAdobecreativecloud } from "react-icons/si";
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -8,9 +9,9 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech" >
      <SectionDivider/>
-     <SectionTitle>Tecnologies</SectionTitle>
+     <SectionTitle>Technologies</SectionTitle>
      <SectionText>
-       I have worked with a range of technologies in web and mobile development.
+       I have worked with a range of technologies in both web and mobile development.
       
      </SectionText>
      <List>
@@ -39,7 +40,7 @@ const Technologies = () =>  (
 
    
        <ListItem>
-         <DiZend size = "3rem"/>
+         <SiAdobecreativecloud size = "3rem"/>
          <ListContainer>
          <ListTitle>UI/UX Design </ListTitle>
          <ListParagraph>
