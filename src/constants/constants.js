@@ -23,7 +23,7 @@ export const projects = [
     description:"A simple iOS app that helps friends split a bill at the restaurant. Includes the option for tip as well-all you have to do is input the amount and leave the calculations to the app!",
     image: '/images/we-split.png',
     tags: ['', 'SwiftUI', ''],
-    source: 'https://github.com/agbesi-amenyo/Project---Responsive-Website---Buy-Me-A-Coffee.git',
+    source: 'https://github.com/agbesi-amenyo/WeSplit.git',
     visit: '#projects',
     id: 1,
   },
