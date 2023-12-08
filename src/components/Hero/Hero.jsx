@@ -11,11 +11,11 @@ const Hero = (props) => (
         Welcome to my <br />
         Personal Profile 
       </SectionTitle>
-
+      I am a qualified engineer (M.Sc.) with over 2 years' experience in software development. 
+      I have worked with several programming languages. 
+      I'm looking to apply my experience to innovative projects that will also enable me to hone my skills.
       <SectionText>
-        Hi there! My name is Agbesi Amenyo. I am a front end developer with knowledge in React and SwiftUI.
-        I can help you build clean and nice websites like this with my knowledge in HTML, CSS & Javascript (React).
-        I also have months of exeprience in iOS development (SwiftUI) and i can help you build beautiful iOS mobile apps. 
+ 
       </SectionText>
       <Button onClick = {()=> window.location = "https://www.linkedin.com/in/agbesi-amenyo/"} > Learn More  </Button>
 
