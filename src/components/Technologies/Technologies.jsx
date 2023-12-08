@@ -20,7 +20,7 @@ const Technologies = () =>  (
          <ListContainer>
          <ListTitle>Front-End </ListTitle>
          <ListParagraph>
-             Experience with HTML, CSS and React.js.
+             Experience with HTML, CSS and ReactJS.
            </ListParagraph>
          </ListContainer>
        </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
          <ListContainer>
          <ListTitle>iOs App Development </ListTitle>
          <ListParagraph>
-             Experience with Swift.
+             Experience with UIKit,Swift & SwiftUI.
            </ListParagraph>
          </ListContainer>
        </ListItem>
@@ -42,9 +42,9 @@ const Technologies = () =>  (
        <ListItem>
          <SiAdobecreativecloud size = "3rem"/>
          <ListContainer>
-         <ListTitle>UI/UX Design </ListTitle>
+         <ListTitle>Software Deveelopment & Testing </ListTitle>
          <ListParagraph>
-             Experience with tools like Adobe Illustrator, XD, Premiere Pro and  PhotoShop
+             Experience with tools like Java, Python, C# , Tests with Cypress & Jenkins.
            </ListParagraph>
          </ListContainer>
        </ListItem>
