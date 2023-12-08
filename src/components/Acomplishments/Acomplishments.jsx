@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: '2-time', text: 'Top Performer at AmaliTech Training Academy', },
-  { number: 52, text: 'Open Source Projects- All available on Github'},
+  { number: 69, text: 'Open Source Projects- All available on Github'},
   { number: 2, text: 'Paid Projects', },
 ];
 
