@@ -11,11 +11,11 @@ const Hero = (props) => (
         Welcome to my <br />
         Personal Profile 
       </SectionTitle>
+
+      <SectionText>
       I am a qualified engineer (M.Sc.) with over 2 years' experience in software development. 
       I have worked with several programming languages. 
-      I'm looking to apply my experience to innovative projects that will also enable me to hone my skills.
-      <SectionText>
- 
+      I'm looking to apply my experience to innovative projects that will also enable me to hone my skills. 
       </SectionText>
       <Button onClick = {()=> window.location = "https://www.linkedin.com/in/agbesi-amenyo/"} > Learn More  </Button>
 
