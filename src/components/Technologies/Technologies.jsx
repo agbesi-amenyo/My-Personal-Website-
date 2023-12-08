@@ -42,7 +42,7 @@ const Technologies = () =>  (
        <ListItem>
          <SiAdobecreativecloud size = "3rem"/>
          <ListContainer>
-         <ListTitle>Software Deveelopment & Testing </ListTitle>
+         <ListTitle>Software Development & Testing </ListTitle>
          <ListParagraph>
              Experience with tools like Java, Python, C# , Tests with Cypress & Jenkins.
            </ListParagraph>

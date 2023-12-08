@@ -22,7 +22,7 @@ export const projects = [
     title: 'We Split',
     description:"A simple iOS app that helps friends split a bill at the restaurant. Includes the option for tip as well-all you have to do is input the amount and leave the calculations to the app!",
     image: '/images/we-split.png',
-    tags: ['', 'SwiftUI', ''],
+    tags: ['UIKit', 'SwiftUI', 'Swift'],
     source: 'https://github.com/agbesi-amenyo/WeSplit.git',
     visit: '#projects',
     id: 1,
@@ -43,6 +43,6 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2019, text: 'Started online studies on YouTube with Mosh', },
-  { year: 2020, text: 'Applied to AmaliTech Training Academy', },
-  { year: 2021, text: 'Completed the Training in June and Started working as a Front End & iOS Developer(SwiftUI) in July', },
+  { year: 2020, text: 'Applied to AmaliTech Training Academy,on the Software Devleopment Track', },
+  { year: 2021, text: 'After six months of Training, I became a certified Software Engineer.Now I am looking for paid projects!', },
 ];

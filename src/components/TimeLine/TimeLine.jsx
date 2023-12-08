@@ -68,11 +68,9 @@ const Timeline = () => {
         <SectionDivider/>
       <SectionTitle> About Me </SectionTitle>
       <SectionText>
-        I started learning web development through a training programme at
-        AmaliTech. I took on that challenge because in University, I never
-        understood programming and I wanted to prove to myself that with the
-        right resources available, I too, could become a web developer.And here
-        I am today introducing you to my website.
+        I started learning software development through a training programme at
+        AmaliTech. After six months of training and winning two awards later, I became a certified
+        software developer with an array of programming languages.
       </SectionText>
 
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}  >

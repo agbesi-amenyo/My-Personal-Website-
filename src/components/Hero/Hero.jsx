@@ -9,7 +9,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle  main center  >
         Welcome to my <br />
-        Personal Profile 
+        Personal Online Profile 
       </SectionTitle>
 
       <SectionText>
